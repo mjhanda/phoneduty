@@ -15,12 +15,13 @@ vendor
 ethumbs.db
 Thumbs.db
 
-# Eclipse IDE
+# IDE
 .project
 .settings
 .buildpath
 .manager
 .cache
+*.iml
 
 # Netbeans IDE
 nbproject
@@ -30,3 +31,4 @@ nbproject
 
 # Heroku config variables
 .env
+
